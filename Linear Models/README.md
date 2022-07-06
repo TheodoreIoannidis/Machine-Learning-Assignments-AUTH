@@ -8,6 +8,6 @@ Towards the end we also add the option to run with L1 and L2 reguralization.
 
 See: 
 
-    https://numpy.org/
+* https://numpy.org/
 
-    https://pandas.pydata.org/docs/
+*  https://pandas.pydata.org/docs/
